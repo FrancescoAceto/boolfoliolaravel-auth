@@ -8,5 +8,8 @@
 </head>
 <body>
     <h1>PROGETTI</h1>
+    <div>
+        @yield('content')
+    </div>
 </body>
 </html>
